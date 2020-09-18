@@ -1,0 +1,2 @@
+# statemachine-example
+springstatemachine的使用 使用有限装填机对订单状态进行流转
